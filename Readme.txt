@@ -1,35 +1,41 @@
-How to run the Fuel Delivery Management System (fdondms) Project
+# Fuel Delivery Management System
 
-1. Download the  zip file
+A comprehensive web application for managing fuel deliveries, developed using PHP and MySQL. This project aims to streamline the delivery process for fuel companies, enhancing efficiency and customer satisfaction.
 
-2. Extract the file and copy fdondms folder
+## Table of Contents
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+## Features
 
-5. Create a database with name fdondmsdb
+- User authentication and authorization
+- Order management system
+- Real-time tracking of fuel deliveries
+- Customer management interface
+- Reporting and analytics dashboard
 
-6. Import fdondmsdb.sql file(given inside the zip package in SQL file folder)
+## Technologies Used
 
-7.Run the script http://localhost/fdondms (frontend)
+- **Frontend**:
+  - HTML5
+  - CSS3
+  - JavaScript
 
+- **Backend**:
+  - PHP
+  - MySQL
 
+- **Tools**:
+  - XAMPP (for local development)
+  - Git (for version control)
 
-Credential for admin panel :
+## Installation
 
-Username: admin
-Password: Test@123
-
-Credential for Fuel Station owner panel :
-
-Username: john12
-Password: Test@123
- Or Register a new owner.
-
-Credential for  User panel :
-
-Username: rahul12
-Password: Test@123
-
- Or Register a new User."New line of text" 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jithinjithu10/Fuel-Delivery-Management-System.git
