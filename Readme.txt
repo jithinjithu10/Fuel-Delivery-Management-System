@@ -32,4 +32,4 @@ Credential for  User panel :
 Username: rahul12
 Password: Test@123
 
- Or Register a new User.
+ Or Register a new User."New line of text" 
